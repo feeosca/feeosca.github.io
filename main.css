@@ -7,3 +7,13 @@ h1 {
     color: white;
     text-align: center;
 }
+
+
+body {
+        background-color:gold;
+}
+
+@media only screen and (max-width: 750px) {
+    body {
+        background-color:rebeccapurple;
+    }
